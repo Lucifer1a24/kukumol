@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+PIKACHU+WA+BOT+REPO.;CREATED+BY+lucifer;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO++WA+BOT+REPO.;CREATED+BY+lucifer;THIS+IS+A+BGM+STIKER+BOT;WITH+MORE+FEATURES;THANKS+FOR+VISITING)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -58,18 +58,6 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-
-## Developer
-  <div align="center">
-    
-  [![`Ameer Suhail`](https://github.com/ameer-kallumthodi.png?size=200)](https://github.com/ameer-kallumthodi)
-
-[`Ameer Suhail`](https://github.com/ameer-kallumthodi)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
-  </div>
-    
-
-
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
