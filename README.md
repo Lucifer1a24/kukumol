@@ -14,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Lucifer1a24">Lucifer1a24</a> to make it public
     <br>
        | © |
         Reserved |
@@ -47,7 +47,7 @@ bash <(curl -L https://t.ly/tHxh)
   click to fork the git into your account
  Click [FORK](https://github.com/ameer-kallumthodi/pikachu/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
+5.Now https://heroku.com/deploy?template=https://github.com/Lucifer1a24/kukumol copy this url and change LUcifer1a24 with your github username and click go<br>
 
 ----
 
